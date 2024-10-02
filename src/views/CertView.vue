@@ -44,7 +44,7 @@ const certificates = ref([
     id: 5,
     name: 'Business Analytics Essentials',
     link: 'https://drive.google.com/file/d/1l9MuJqzNFf2IBc0FfgU9UWl7jhssfGaY/view?usp=sharing',
-    image: '/src/assets/imgs/business-analytics-with-excel.jpg',
+    image: 'src/assets/imgs/business-analytics-with-excel.jpg',
   },
 ]);
 </script>
