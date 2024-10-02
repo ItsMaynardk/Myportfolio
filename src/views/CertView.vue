@@ -20,31 +20,31 @@ const certificates = ref([
     id: 1,
     name: 'Fortinet Certified Fundamentals in CyberSecurity',
     link: 'https://drive.google.com/your-link-1',
-    image: '/imgs/fort-cert.jpg',  // No need for require(), direct path from public folder
+    image: '/images/fort-cert.jpg',  // No need for require(), direct path from public folder
   },
   {
     id: 2,
     name: 'Fortinet Certified Associate in Cybersecurity',
     link: 'https://drive.google.com/file/d/1meWC3C5f4PrGcxrnLsd2uNXaIzkqXR-l/view?usp=sharing',
-    image: '/imgs/fortport.jpg',  // Direct path
+    image: '/images/fortport.jpg',  // Direct path
   },
   {
     id: 3,
     name: 'Intro to Cybersecurity',
     link: 'https://drive.google.com/file/d/1fD3rP6fFYMk4xhu8qvzVzShd7XeQ7jU1/view?usp=sharing',
-    image: '/imgs/intro.jpg',  // Direct path
+    image: '/images/intro.jpg',  // Direct path
   },
   {
     id: 4,
     name: 'Data Analytics Essentials',
     link: 'https://drive.google.com/file/d/1IdSOmXcZkweqzaZjcetTm6PA4yczICQd/view?usp=sharing',
-    image: '/imgs/data-analytics.jpg',  // Direct path
+    image: '/images/data-analytics.jpg',  // Direct path
   },
   {
     id: 5,
     name: 'Business Analytics Essentials',
     link: 'https://drive.google.com/file/d/1l9MuJqzNFf2IBc0FfgU9UWl7jhssfGaY/view?usp=sharing',
-    image: '/imgs/business-analytics-with-excel.jpg',  // Direct path
+    image: '/images/business-analytics-with-excel.jpg',  // Direct path
   },
 ]);
 
