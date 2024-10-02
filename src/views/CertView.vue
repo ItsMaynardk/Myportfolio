@@ -20,7 +20,7 @@ const certificates = ref([
     id: 1,
     name: 'Fortinet Certified Fundamentals in CyberSecurity',
     link: 'https://drive.google.com/your-link-1',
-    image: '/src/assets/imgs/fort-cert.jpg',
+    image: './src/assets/imgs/fort-cert.jpg',
   },
   {
     id: 2,
